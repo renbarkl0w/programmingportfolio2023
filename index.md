@@ -10,7 +10,7 @@ OOP Graphical Calculator built in Processing 4
 [Calculator Source Code](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/src/Calculator)
 
 ### Space Game
-![Running Space Game](https://github.com/renbarkl0w/programmingportfolio2023/blob/d53e44fbcd27bddf4b76eced5e99ea70713c34a0/images/spacegame.png)
+![Running Space Game](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/images/SpaceGame)
 
 [Space Game Source Code](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/src/SpaceGame)
 
@@ -20,6 +20,6 @@ OOP Graphical Calculator built in Processing 4
 [Car Tester Source Code](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/src/CarTester)
 
 ### Screen Saver
-![Running Screen Saver](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/images/SpaceGame)
+![Running Screen Saver](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/images/ScreenSaver)
 
 [Screen Saver Source Code](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/src/ScreenSaver)
