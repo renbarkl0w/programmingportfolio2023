@@ -1,0 +1,21 @@
+ay = 'ay'
+way = 'way'
+consonant = ('B','C','D','F','G','H','J','K','L','M','N','P','Q','R','S','T','Y','V','X','Z','b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','y','v','x','z')
+vowel = ('A','E','I','O','U','a','e','i','o','u')
+userWord = input("Type a word: ")
+len(userWord)
+firstLetter = userWord[0]
+firstLetter = str(firstLetter)
+firstLetter = firstLetter.lower()
+if firstLetter in consonant:
+   print(firstLetter,'is a consonant')
+   lengthWord = len(userWord)
+   removeFirst = userWord[1:lengthWord]
+   pigLatin = removeFirst + firstLetter + ay
+   print('The word in Pig Latin is: ',pigLatin)
+elif firstLetter in vowel:
+   print(firstLetter,'is a vowel')
+   pigLatin = userWord+way
+   print('The word in Pig Latin is: ',pigLatin)
+else:
+   print('I dont know what',firstLetter,'is')
