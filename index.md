@@ -1,5 +1,9 @@
 # 2022-23 Programming Projects
 
+## Ren Barklow
+![my main email](mailto:lebarklow416@gmail.com)
+![my school email](mailto:laurbark9679@granitesd.org)
+
 ## Processing Projects
 
 ### Calculator 
@@ -28,3 +32,5 @@ OOP Graphical Calculator built in Processing 4
 ![Running Pig Latin Converter](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/images/PigLatin)
 
 [Pig Latin Converter Source Code](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/src/PigLatin)
+
+### Snake Clone (Final Group Project)
