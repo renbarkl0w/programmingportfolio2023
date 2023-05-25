@@ -34,3 +34,6 @@ OOP Graphical Calculator built in Processing 4
 [Pig Latin Converter Source Code](https://github.com/renbarkl0w/programmingportfolio2023/tree/main/src/PigLatin)
 
 ### Snake Clone (Final Group Project)
+![Running Snake Clone]
+
+[Snake Clone Source Code]
