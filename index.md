@@ -36,4 +36,4 @@ OOP Graphical Calculator built in Processing 4
 ### Snake Clone (Final Group Project)
 ![Running Snake Clone](https://github.com/renbarkl0w/programmingportfolio2023/blob/2b5f68d151c1ab25beece7ed55861c764bb71e9f/images/snakeClone.md) 
 
-[Snake Clone Source Code]
+[Snake Clone Source Code](https://github.com/renbarkl0w/programmingportfolio2023/tree/6ac8d04692b39ea62368f715fc149e8dbf4d2d15/src/Snake%20Clone)
